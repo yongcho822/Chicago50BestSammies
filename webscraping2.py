@@ -1,8 +1,3 @@
-
-# coding: utf-8
-
-# In[97]:
-
 import csv
 import json
 import re
